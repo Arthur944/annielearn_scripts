@@ -1,0 +1,682 @@
+How do you pronounce ほこうしゃてんごく?;hokoushatengoku;54250,read 486,read 54272,read 484,read 54263,read 54260,read 54277,read 54245,read 54251,read
+Write in hiragana:** hokoushatengoku** !;ほこうしゃてんごく;54250,write 486,write 54272,write 484,write 54263,write 54260,write 54277,write 54245,write 54251,write
+How do you pronounce ゴールデンウィーク?;go-rudenwi-ku;488,read 54297,read 484,read 54291,read 54296,read 54306,read 54323,read 54302,read
+Write in katakana: **go-rudenwi-ku** !;ゴールデンウィーク;488,write 54297,write 484,write 54291,write 54296,write 54306,write 54323,write 54302,write
+How do you pronounce セルフサービス?;serufusa-bisu;488,read 54281,read 54298,read 484,read 54289,read 54300,read 54319,read 54302,read
+Write in katakana: **serufusa-bisu** !;セルフサービス;488,write 54281,write 54298,write 484,write 54289,write 54300,write 54319,write 54302,write
+How do you pronounce シャープペンシル?;sha-pupenshiru;488,read 54292,read 486,read 484,read 54318,read 54300,read 54323,read 54302,read
+Write in katakana: **sha-pupenshiru** !;シャープペンシル;488,write 54292,write 486,write 484,write 54318,write 54300,write 54323,write 54302,write
+How do you pronounce ジャーナリズム?;ja-narizumu;488,read 54303,read 486,read 54283,read 484,read 54298,read 54318,read 54321,read
+Write in katakana: **ja-narizumu** !;ジャーナリズム;488,write 54303,write 486,write 54283,write 484,write 54298,write 54318,write 54321,write
+How do you pronounce そうりだいじん?;souridaijin;54250,read 54272,read 54275,read 54261,read 484,read 54277,read 54269,read 54234,read
+Write in hiragana:** souridaijin** !;そうりだいじん;54250,write 54272,write 54275,write 54261,write 484,write 54277,write 54269,write 54234,write
+How do you pronounce レクリエーション?;rekurie-shon;54294,read 488,read 486,read 54321,read 54318,read 54297,read 54323,read 54288,read
+Write in katakana: **rekurie-shon** !;レクリエーション;54294,write 488,write 486,write 54321,write 54318,write 54297,write 54323,write 54288,write
+How do you pronounce しょうがくせい?;shougakusei;54250,read 486,read 54272,read 484,read 54113,read 54243,read 54269,read 54251,read
+Write in hiragana:** shougakusei** !;しょうがくせい;54250,write 486,write 54272,write 484,write 54113,write 54243,write 54269,write 54251,write
+How do you pronounce ガールフレンド?;ga-rufurendo;488,read 54294,read 54323,read 54308,read 484,read 54300,read 54279,read 54302,read
+Write in katakana: **ga-rufurendo** !;ガールフレンド;488,write 54294,write 54323,write 54308,write 484,write 54300,write 54279,write 54302,write
+How do you pronounce しょうがくきん?;shougakukin;54250,read 486,read 54272,read 484,read 54277,read 54113,read 54270,read 54251,read
+Write in hiragana:** shougakukin** !;しょうがくきん;54250,write 486,write 54272,write 484,write 54277,write 54113,write 54270,write 54251,write
+How do you pronounce ボーイフレンド?;bo-ifurendo;488,read 54294,read 54309,read 54308,read 484,read 54315,read 54300,read 54323,read
+Write in katakana: **bo-ifurendo** !;ボーイフレンド;488,write 54294,write 54309,write 54308,write 484,write 54315,write 54300,write 54323,write
+How do you pronounce めざましどけい?;mezamashidokei;54262,read 54272,read 54235,read 484,read 54244,read 54269,read 54249,read 54240,read
+Write in hiragana:** mezamashidokei** !;めざましどけい;54262,write 54272,write 54235,write 484,write 54244,write 54269,write 54249,write 54240,write
+How do you pronounce ろくおんテープ?;rokuonte-pu;488,read 54265,read 484,read 54277,read 54291,read 54300,read 54259,read 54251,read
+Write in hiragana:** rokuonte-pu** !;ろくおんテープ;488,write 54265,write 484,write 54277,write 54291,write 54300,write 54259,write 54251,write
+How do you pronounce ノーベルしょう?;no-berushou;488,read 54250,read 54292,read 486,read 54272,read 54310,read 484,read 54302,read
+Write in katakana: **no-berushou** !;ノーベルしょう;488,write 54250,write 54292,write 486,write 54272,write 54310,write 484,write 54302,write
+How do you pronounce いっしょうけんめい?;isshoukenmei;54250,read 486,read 54272,read 54244,read 487,read 54277,read 54269,read 54249,read
+Write in hiragana:** isshoukenmei** !;いっしょうけんめい;54250,write 486,write 54272,write 54244,write 487,write 54277,write 54269,write 54249,write
+How do you pronounce バスケットボール?;basukettobo-ru;54282,read 488,read 54309,read 54290,read 54308,read 54298,read 484,read 54302,read
+Write in katakana: **basukettobo-ru** !;バスケットボール;54282,write 488,write 54309,write 54290,write 54308,write 54298,write 484,write 54302,write
+How do you pronounce しょくぶつえん?;shokubutsuen;54242,read 486,read 54272,read 54251,read 54253,read 484,read 54277,read 54254,read
+Write in hiragana:** shokubutsuen** !;しょくぶつえん;54242,write 486,write 54272,write 54251,write 54253,write 484,write 54277,write 54254,write
+How do you pronounce ガソリンスタンド?;gasorinsutando;54323,read 54308,read 54280,read 54298,read 484,read 54307,read 54279,read 54321,read
+Write in katakana: **gasorinsutando** !;ガソリンスタンド;54323,write 54308,write 54280,write 54298,write 484,write 54307,write 54279,write 54321,write
+How do you pronounce ジャーナリスト?;ja-narisuto;488,read 486,read 54308,read 54283,read 484,read 54298,read 54318,read 54321,read
+Write in katakana: **ja-narisuto** !;ジャーナリスト;488,write 486,write 54308,write 54283,write 484,write 54298,write 54318,write 54321,write
+How do you pronounce ゆうびんきょく?;yuubinkyoku;54250,read 486,read 54273,read 484,read 54277,read 54258,read 54270,read 54251,read
+Write in hiragana:** yuubinkyoku** !;ゆうびんきょく;54250,write 486,write 54273,write 484,write 54277,write 54258,write 54270,write 54251,write
+How do you pronounce ちゅうがくせい?;chuugakusei;54250,read 486,read 54271,read 484,read 54113,read 54243,read 54269,read 54251,read
+Write in hiragana:** chuugakusei** !;ちゅうがくせい;54250,write 486,write 54271,write 484,write 54113,write 54243,write 54269,write 54251,write
+How do you pronounce めんどうくさい?;mendoukusai;54250,read 54262,read 54251,read 54235,read 484,read 54277,read 54269,read 54249,read
+Write in hiragana:** mendoukusai** !;めんどうくさい;54250,write 54262,write 54251,write 54235,write 484,write 54277,write 54269,write 54249,write
+How do you pronounce りゅうがくせい?;ryuugakusei;54250,read 486,read 54275,read 484,read 54113,read 54243,read 54269,read 54251,read
+Write in hiragana:** ryuugakusei** !;りゅうがくせい;54250,write 486,write 54275,write 484,write 54113,write 54243,write 54269,write 54251,write
+How do you pronounce ひゃっかじてん?;hyakkajiten;486,read 54272,read 54273,read 54233,read 484,read 487,read 54277,read 54245,read
+Write in hiragana:** hyakkajiten** !;ひゃっかじてん;486,write 54272,write 54273,write 54233,write 484,write 487,write 54277,write 54245,write
+How do you pronounce かならずしも?;kanarazushimo;54237,read 54267,read 54272,read 54233,read 484,read 54252,read 54238,read
+Write in hiragana:** kanarazushimo** !;かならずしも;54237,write 54267,write 54272,write 54233,write 484,write 54252,write 54238,write
+How do you pronounce トイレットペーパー?;toirettope-pa-;54282,read 54294,read 488,read 54292,read 54308,read 484,read 54315,read
+Write in katakana: **toirettope-pa-** !;トイレットペーパー;54282,write 54294,write 488,write 54292,write 54308,write 484,write 54315,write
+How do you pronounce はんどうたい?;handoutai;54250,read 54262,read 484,read 54277,read 54269,read 54234,read 54236,read
+Write in hiragana:** handoutai** !;はんどうたい;54250,write 54262,write 484,write 54277,write 54269,write 54234,write 54236,write
+How do you pronounce プロやきゅう?;puroyakyuu;54250,read 486,read 54311,read 54241,read 484,read 54270,read 54300,read
+Write in katakana: **puroyakyuu** !;プロやきゅう;54250,write 486,write 54311,write 54241,write 484,write 54270,write 54300,write
+How do you pronounce たんじょうび?;tanjoubi;54250,read 486,read 54272,read 54273,read 484,read 54277,read 54234,read
+Write in hiragana:** tanjoubi** !;たんじょうび;54250,write 486,write 54272,write 54273,write 484,write 54277,write 54234,write
+How do you pronounce インフレーション?;infure-shon;488,read 54294,read 486,read 54315,read 54318,read 54300,read 54323,read
+Write in katakana: **infure-shon** !;インフレーション;488,write 54294,write 486,write 54315,write 54318,write 54300,write 54323,write
+How do you pronounce ヘリコプター?;herikoputa-;488,read 54292,read 54280,read 484,read 54300,read 54306,read 54321,read
+Write in katakana: **herikoputa-** !;ヘリコプター;488,write 54292,write 54280,write 484,write 54300,write 54306,write 54321,write
+How do you pronounce じつようてき?;jitsuyouteki;54250,read 54272,read 54253,read 54268,read 484,read 54245,read 54270,read
+Write in hiragana:** jitsuyouteki** !;じつようてき;54250,write 54272,write 54253,write 54268,write 484,write 54245,write 54270,write
+How do you pronounce こうそくどうろ?;kousokudouro;54250,read 54262,read 54261,read 484,read 54265,read 54260,read 54251,read
+Write in hiragana:** kousokudouro** !;こうそくどうろ;54250,write 54262,write 54261,write 484,write 54265,write 54260,write 54251,write
+How do you pronounce そくたつびん?;sokutatsubin;54251,read 54253,read 54273,read 54261,read 484,read 54277,read 54234,read
+Write in hiragana:** sokutatsubin** !;そくたつびん;54251,write 54253,write 54273,write 54261,write 484,write 54277,write 54234,write
+How do you pronounce だんせいてき?;danseiteki;484,read 54277,read 54243,read 54245,read 54270,read 54269,read 54234,read
+Write in hiragana:** danseiteki** !;だんせいてき;484,write 54277,write 54243,write 54245,write 54270,write 54269,write 54234,write
+How do you pronounce まちどおしい?;machidooshii;54262,read 54272,read 54271,read 484,read 54269,read 54259,read 54240,read
+Write in hiragana:** machidooshii** !;まちどおしい;54262,write 54272,write 54271,write 484,write 54269,write 54259,write 54240,write
+How do you pronounce げんしりょく?;genshiryoku;486,read 54272,read 54275,read 54244,read 484,read 54277,read 54251,read
+Write in hiragana:** genshiryoku** !;げんしりょく;486,write 54272,write 54275,write 54244,write 484,write 54277,write 54251,write
+How do you pronounce がいこくじん?;gaikokujin;54272,read 484,read 54277,read 54260,read 54113,read 54269,read 54251,read
+Write in hiragana:** gaikokujin** !;がいこくじん;54272,write 484,write 54277,write 54260,write 54113,write 54269,write 54251,write
+How do you pronounce ミスプリント?;misupurinto;54308,read 54298,read 484,read 54300,read 54323,read 54321,read 54322,read
+Write in katakana: **misupurinto** !;ミスプリント;54308,write 54298,write 484,write 54300,write 54323,write 54321,write 54322,write
+How do you pronounce ふどうさんや?;fudousan'ya;54250,read 54262,read 54241,read 54235,read 484,read 54277,read 54254,read
+Write in hiragana:** fudousan'ya** !;ふどうさんや;54250,write 54262,write 54241,write 54235,write 484,write 54277,write 54254,write
+How do you pronounce りょうじかん?;ryoujikan;54250,read 486,read 54272,read 54275,read 54233,read 484,read 54277,read
+Write in hiragana:** ryoujikan** !;りょうじかん;54250,write 486,write 54272,write 54275,write 54233,write 484,write 54277,write
+How do you pronounce じょせいてき?;joseiteki;486,read 54272,read 484,read 54243,read 54245,read 54270,read 54269,read
+Write in hiragana:** joseiteki** !;じょせいてき;486,write 54272,write 484,write 54243,write 54245,write 54270,write 54269,write
+How do you pronounce インタビュー?;intabyu-;488,read 486,read 54323,read 54280,read 484,read 54315,read 54319,read
+Write in katakana: **intabyu-** !;インタビュー;488,write 486,write 54323,write 54280,write 484,write 54315,write 54319,write
+How do you pronounce しょうがっこう?;shougakkou;54250,read 486,read 54272,read 484,read 487,read 54260,read 54113,read
+Write in hiragana:** shougakkou** !;しょうがっこう;54250,write 486,write 54272,write 484,write 487,write 54260,write 54113,write
+How do you pronounce にぎりしめる?;nigirishimeru;54272,read 54275,read 484,read 54270,read 54256,read 54274,read 54249,read
+Write in hiragana:** nigirishimeru** !;にぎりしめる;54272,write 54275,write 484,write 54270,write 54256,write 54274,write 54249,write
+How do you pronounce ていりゅうじょ?;teiryuujo;54250,read 486,read 54272,read 54275,read 484,read 54245,read 54269,read
+Write in hiragana:** teiryuujo** !;ていりゅうじょ;54250,write 486,write 54272,write 54275,write 484,write 54245,write 54269,write
+How do you pronounce どうきゅうせい?;doukyuusei;54250,read 486,read 54262,read 484,read 54243,read 54270,read 54269,read
+Write in hiragana:** doukyuusei** !;どうきゅうせい;54250,write 486,write 54262,write 484,write 54243,write 54270,write 54269,write
+How do you pronounce カセットテープ?;kasettote-pu;488,read 54308,read 484,read 54291,read 54289,read 54300,read 54279,read
+Write in katakana: **kasettote-pu** !;カセットテープ;488,write 54308,write 484,write 54291,write 54289,write 54300,write 54279,write
+How do you pronounce さいばんしょ?;saibansho;486,read 54272,read 54235,read 484,read 54277,read 54269,read 54236,read
+Write in hiragana:** saibansho** !;さいばんしょ;486,write 54272,write 54235,write 484,write 54277,write 54269,write 54236,write
+How do you pronounce ウィークエンド?;wi-kuendo;488,read 54308,read 484,read 54297,read 54323,read 54288,read 54296,read
+Write in katakana: **wi-kuendo** !;ウィークエンド;488,write 54308,write 484,write 54297,write 54323,write 54288,write 54296,write
+How do you pronounce ごちそうする?;gochisousuru;54250,read 54261,read 484,read 54271,read 54260,read 54252,read 54256,read
+Write in hiragana:** gochisousuru** !;ごちそうする;54250,write 54261,write 484,write 54271,write 54260,write 54252,write 54256,write
+How do you pronounce プラットホーム?;purattoho-mu;488,read 54303,read 54309,read 54308,read 484,read 54284,read 54300,read
+Write in katakana: **purattoho-mu** !;プラットホーム;488,write 54303,write 54309,write 54308,write 484,write 54284,write 54300,write
+How do you pronounce たんきだいがく?;tankidaigaku;54251,read 484,read 54277,read 54113,read 54270,read 54269,read 54234,read
+Write in hiragana:** tankidaigaku** !;たんきだいがく;54251,write 484,write 54277,write 54113,write 54270,write 54269,write 54234,write
+How do you pronounce せいようじん?;seiyoujin;54250,read 54272,read 54268,read 484,read 54277,read 54243,read 54269,read
+Write in hiragana:** seiyoujin** !;せいようじん;54250,write 54272,write 54268,write 484,write 54277,write 54243,write 54269,write
+How do you pronounce びじゅつかん?;bijutsukan;486,read 54272,read 54253,read 54273,read 54233,read 484,read 54277,read
+Write in hiragana:** bijutsukan** !;びじゅつかん;486,write 54272,write 54253,write 54273,write 54233,write 484,write 54277,write
+How do you pronounce はくぶつかん?;hakubutsukan;54251,read 54253,read 54233,read 484,read 54277,read 54254,read 54236,read
+Write in hiragana:** hakubutsukan** !;はくぶつかん;54251,write 54253,write 54233,write 484,write 54277,write 54254,write 54236,write
+How do you pronounce ひょっとしたら?;hyottoshitara;486,read 54262,read 54272,read 54273,read 487,read 54238,read 54234,read
+Write in hiragana:** hyottoshitara** !;ひょっとしたら;486,write 54262,write 54272,write 54273,write 487,write 54238,write 54234,write
+How do you pronounce ちゅういぶかい?;chuuibukai;54250,read 486,read 54233,read 54271,read 484,read 54269,read 54254,read
+Write in hiragana:** chuuibukai** !;ちゅういぶかい;54250,write 486,write 54233,write 54271,write 484,write 54269,write 54254,write
+How do you pronounce ねんがじょう?;nengajou;54250,read 486,read 54272,read 484,read 54277,read 54113,read 54247,read
+Write in hiragana:** nengajou** !;ねんがじょう;54250,write 486,write 54272,write 484,write 54277,write 54113,write 54247,write
+How do you pronounce ゆうびんやさん?;yuubin'yasan;54250,read 54241,read 54273,read 54235,read 484,read 54277,read 54258,read
+Write in hiragana:** yuubin'yasan** !;ゆうびんやさん;54250,write 54241,write 54273,write 54235,write 484,write 54277,write 54258,write
+How do you pronounce でんわちょう?;denwachou;54250,read 486,read 484,read 54271,read 54277,read 54245,read 54239,read
+Write in hiragana:** denwachou** !;でんわちょう;54250,write 486,write 484,write 54271,write 54277,write 54245,write 54239,write
+How do you pronounce つくりあげる?;tsukuriageru;54232,read 54253,read 54275,read 54244,read 484,read 54256,read 54251,read
+Write in hiragana:** tsukuriageru** !;つくりあげる;54232,write 54253,write 54275,write 54244,write 484,write 54256,write 54251,write
+How do you pronounce だいじょうぶ?;daijoubu;54250,read 486,read 54272,read 484,read 54254,read 54269,read 54234,read
+Write in hiragana:** daijoubu** !;だいじょうぶ;54250,write 486,write 54272,write 484,write 54254,write 54269,write 54234,write
+How do you pronounce そうべつかい?;soubetsukai;54250,read 54246,read 54253,read 54233,read 54261,read 484,read 54269,read
+Write in hiragana:** soubetsukai** !;そうべつかい;54250,write 54246,write 54253,write 54233,write 54261,write 484,write 54269,write
+How do you pronounce おうだんほどう?;oudanhodou;54250,read 54262,read 484,read 54277,read 54263,read 54259,read 54234,read
+Write in hiragana:** oudanhodou** !;おうだんほどう;54250,write 54262,write 484,write 54277,write 54263,write 54259,write 54234,write
+How do you pronounce いっさくじつ?;issakujitsu;54272,read 54253,read 54235,read 484,read 487,read 54269,read 54251,read
+Write in hiragana:** issakujitsu** !;いっさくじつ;54272,write 54253,write 54235,write 484,write 487,write 54269,write 54251,write
+How do you pronounce ちからづよい?;chikaraduyoi;54253,read 54233,read 54268,read 54271,read 484,read 54269,read 54238,read
+Write in hiragana:** chikaraduyoi** !;ちからづよい;54253,write 54233,write 54268,write 54271,write 484,write 54269,write 54238,write
+How do you pronounce どうぶつえん?;doubutsuen;54250,read 54242,read 54262,read 54253,read 484,read 54277,read 54254,read
+Write in hiragana:** doubutsuen** !;どうぶつえん;54250,write 54242,write 54262,write 54253,write 484,write 54277,write 54254,write
+How do you pronounce あいかわらず?;aikawarazu;54232,read 54233,read 484,read 54252,read 54269,read 54238,read 54239,read
+Write in hiragana:** aikawarazu** !;あいかわらず;54232,write 54233,write 484,write 54252,write 54269,write 54238,write 54239,write
+How do you pronounce あとかたづけ?;atokataduke;54232,read 54262,read 54253,read 54233,read 484,read 54244,read 54234,read
+Write in hiragana:** atokataduke** !;あとかたづけ;54232,write 54262,write 54253,write 54233,write 484,write 54244,write 54234,write
+How do you pronounce あんのじょう?;an'nojou;54250,read 54232,read 486,read 54272,read 484,read 54277,read 54264,read
+Write in hiragana:** an'nojou** !;あんのじょう;54250,write 54232,write 486,write 54272,write 484,write 54277,write 54264,write
+How do you pronounce ていきゅうび?;teikyuubi;54250,read 486,read 54273,read 484,read 54270,read 54245,read 54269,read
+Write in hiragana:** teikyuubi** !;ていきゅうび;54250,write 486,write 54273,write 484,write 54270,write 54245,write 54269,write
+How do you pronounce じんぶんかがく?;jinbunkagaku;54272,read 54251,read 54233,read 484,read 54277,read 54113,read 54254,read
+Write in hiragana:** jinbunkagaku** !;じんぶんかがく;54272,write 54251,write 54233,write 484,write 54277,write 54113,write 54254,write
+How do you pronounce ずるがしこい?;zurugashikoi;54272,read 484,read 54252,read 54113,read 54260,read 54256,read 54269,read
+Write in hiragana:** zurugashikoi** !;ずるがしこい;54272,write 484,write 54252,write 54113,write 54260,write 54256,write 54269,write
+How do you pronounce イスラムきょう?;isuramukyou;54250,read 54303,read 486,read 54298,read 54315,read 54270,read 54284,read
+Write in katakana: **isuramukyou** !;イスラムきょう;54250,write 54303,write 486,write 54298,write 54315,write 54270,write 54284,write
+How do you pronounce アイスクリーム?;aisukuri-mu;488,read 54303,read 54298,read 54278,read 54315,read 54297,read 54321,read
+Write in katakana: **aisukuri-mu** !;アイスクリーム;488,write 54303,write 54298,write 54278,write 54315,write 54297,write 54321,write
+How do you pronounce コンピューター?;konpyu-ta-;488,read 486,read 54323,read 54280,read 484,read 54306,read 54319,read
+Write in katakana: **konpyu-ta-** !;コンピューター;488,write 486,write 54323,write 54280,write 484,write 54306,write 54319,write
+How do you pronounce しょちゅうみまい?;shochuumimai;54250,read 486,read 54272,read 54271,read 54276,read 54269,read 54240,read
+Write in hiragana:** shochuumimai** !;しょちゅうみまい;54250,write 486,write 54272,write 54271,write 54276,write 54269,write 54240,write
+How do you pronounce ぼうねんかい?;bounenkai;54250,read 54233,read 48635,read 484,read 54277,read 54247,read 54269,read
+Write in hiragana:** bounenkai** !;ぼうねんかい;54250,write 54233,write 48635,write 484,write 54277,write 54247,write 54269,write
+How do you pronounce かいさつぐち?;kaisatsuguchi;54253,read 54233,read 54235,read 484,read 54271,read 54269,read 54251,read
+Write in hiragana:** kaisatsuguchi** !;かいさつぐち;54253,write 54233,write 54235,write 484,write 54271,write 54269,write 54251,write
+How do you pronounce ちゅうがっこう?;chuugakkou;54250,read 486,read 54271,read 484,read 487,read 54260,read 54113,read
+Write in hiragana:** chuugakkou** !;ちゅうがっこう;54250,write 486,write 54271,write 484,write 487,write 54260,write 54113,write
+How do you pronounce きょうさんしゅぎ?;kyousanshugi;54250,read 486,read 54272,read 54235,read 484,read 54277,read 54270,read
+Write in hiragana:** kyousanshugi** !;きょうさんしゅぎ;54250,write 486,write 54272,write 54235,write 484,write 54277,write 54270,write
+How do you pronounce トレーニング?;tore-ningu;54294,read 488,read 54308,read 484,read 54297,read 54323,read 54320,read
+Write in katakana: **tore-ningu** !;トレーニング;54294,write 488,write 54308,write 484,write 54297,write 54323,write 54320,write
+How do you pronounce おじょうさん?;ojousan;54250,read 486,read 54272,read 54235,read 484,read 54277,read 54259,read
+Write in hiragana:** ojousan** !;おじょうさん;54250,write 486,write 54272,write 54235,write 484,write 54277,write 54259,write
+How do you pronounce スーパーマーケット?;su-pa-ma-ketto;54282,read 488,read 54290,read 54308,read 54298,read 484,read 54286,read
+Write in katakana: **su-pa-ma-ketto** !;スーパーマーケット;54282,write 488,write 54290,write 54308,write 54298,write 484,write 54286,write
+How do you pronounce ひっきようぐ?;hikkiyougu;54250,read 54273,read 54268,read 484,read 487,read 54270,read 54251,read
+Write in hiragana:** hikkiyougu** !;ひっきようぐ;54250,write 54273,write 54268,write 484,write 487,write 54270,write 54251,write
+How do you pronounce はつでんしょ?;hatsudensho;486,read 54272,read 54253,read 484,read 54277,read 54245,read 54236,read
+Write in hiragana:** hatsudensho** !;はつでんしょ;486,write 54272,write 54253,write 484,write 54277,write 54245,write 54236,write
+How do you pronounce ことばづかい?;kotobadukai;54262,read 54253,read 54233,read 484,read 54260,read 54269,read 54236,read
+Write in hiragana:** kotobadukai** !;ことばづかい;54262,write 54253,write 54233,write 484,write 54260,write 54269,write 54236,write
+How do you pronounce しぜんかがく?;shizenkagaku;54272,read 54233,read 484,read 54277,read 54113,read 54243,read 54251,read
+Write in hiragana:** shizenkagaku** !;しぜんかがく;54272,write 54233,write 484,write 54277,write 54113,write 54243,write 54251,write
+How do you pronounce イントネーション?;intone-shon;488,read 486,read 54308,read 54315,read 54318,read 54293,read 54323,read
+Write in katakana: **intone-shon** !;イントネーション;488,write 486,write 54308,write 54315,write 54318,write 54293,write 54323,write
+How do you pronounce せいねんがっぴ?;seinengappi;484,read 487,read 54277,read 54113,read 54243,read 54247,read 54269,read
+Write in hiragana:** seinengappi** !;せいねんがっぴ;484,write 487,write 54277,write 54113,write 54243,write 54247,write 54269,write
+How do you pronounce びっくりする?;bikkurisuru;54275,read 54273,read 484,read 487,read 54252,read 54256,read 54251,read
+Write in hiragana:** bikkurisuru** !;びっくりする;54275,write 54273,write 484,write 487,write 54252,write 54256,write 54251,write
+How do you pronounce つくりばなし?;tsukuribanashi;54237,read 54272,read 54253,read 54275,read 484,read 54251,read 54236,read
+Write in hiragana:** tsukuribanashi** !;つくりばなし;54237,write 54272,write 54253,write 54275,write 484,write 54251,write 54236,write
+How do you pronounce ごじゅうおん?;gojuuon;54250,read 486,read 54272,read 484,read 54277,read 54260,read 54259,read
+Write in hiragana:** gojuuon** !;ごじゅうおん;54250,write 486,write 54272,write 484,write 54277,write 54260,write 54259,write
+How do you pronounce とんでもない?;tondemonai;54237,read 54267,read 54262,read 484,read 54277,read 54245,read 54269,read
+Write in hiragana:** tondemonai** !;とんでもない;54237,write 54267,write 54262,write 484,write 54277,write 54245,write 54269,write
+How do you pronounce わるがしこい?;warugashikoi;54272,read 484,read 54260,read 54113,read 54256,read 54269,read 54239,read
+Write in hiragana:** warugashikoi** !;わるがしこい;54272,write 484,write 54260,write 54113,write 54256,write 54269,write 54239,write
+How do you pronounce がいむしょう?;gaimushou;54250,read 486,read 54272,read 484,read 54257,read 54113,read 54269,read
+Write in hiragana:** gaimushou** !;がいむしょう;54250,write 486,write 54272,write 484,write 54257,write 54113,write 54269,write
+How do you pronounce テープレコーダー?;te-pureko-da-;488,read 54294,read 54280,read 484,read 54291,read 54300,read 54306,read
+Write in katakana: **te-pureko-da-** !;テープレコーダー;488,write 54294,write 54280,write 484,write 54291,write 54300,write 54306,write
+How do you pronounce スケジュール?;sukeju-ru;488,read 486,read 54290,read 54298,read 484,read 54318,read 54302,read
+Write in katakana: **sukeju-ru** !;スケジュール;488,write 486,write 54290,write 54298,write 484,write 54318,write 54302,write
+How do you pronounce うたがわしい?;utagawashii;54250,read 54272,read 484,read 54113,read 54269,read 54234,read 54239,read
+Write in hiragana:** utagawashii** !;うたがわしい;54250,write 54272,write 484,write 54113,write 54269,write 54234,write 54239,write
+How do you pronounce キャッシュカード?;kyasshuka-do;488,read 486,read 54316,read 54308,read 484,read 54318,read 54279,read
+Write in katakana: **kyasshuka-do** !;キャッシュカード;488,write 486,write 54316,write 54308,write 484,write 54318,write 54279,write
+How do you pronounce げんこうようし?;genkouyoushi;54250,read 54272,read 54268,read 54244,read 484,read 54277,read 54260,read
+Write in hiragana:** genkouyoushi** !;げんこうようし;54250,write 54272,write 54268,write 54244,write 484,write 54277,write 54260,write
+How do you pronounce ぶんがくしゃ?;bungakusha;486,read 54272,read 484,read 54277,read 54113,read 54254,read 54251,read
+Write in hiragana:** bungakusha** !;ぶんがくしゃ;486,write 54272,write 484,write 54277,write 54113,write 54254,write 54251,write
+How do you pronounce はらいもどす?;haraimodosu;54267,read 54262,read 484,read 54252,read 54269,read 54238,read 54236,read
+Write in hiragana:** haraimodosu** !;はらいもどす;54267,write 54262,write 484,write 54252,write 54269,write 54238,write 54236,write
+How do you pronounce ぜんそくりょく?;zensokuryoku;486,read 54275,read 54261,read 484,read 54277,read 54243,read 54251,read
+Write in hiragana:** zensokuryoku** !;ぜんそくりょく;486,write 54275,write 54261,write 484,write 54277,write 54243,write 54251,write
+How do you pronounce もうしわけない?;moushiwakenai;54250,read 54237,read 54267,read 54272,read 54244,read 54269,read 54239,read
+Write in hiragana:** moushiwakenai** !;もうしわけない;54250,write 54237,write 54267,write 54272,write 54244,write 54269,write 54239,write
+How do you pronounce まっさいちゅう?;massaichuu;54250,read 486,read 54235,read 54271,read 487,read 54269,read 54240,read
+Write in hiragana:** massaichuu** !;まっさいちゅう;54250,write 486,write 54235,write 54271,write 487,write 54269,write 54240,write
+How do you pronounce おもいがけない?;omoigakenai;54237,read 54267,read 484,read 54244,read 54113,read 54269,read 54259,read
+Write in hiragana:** omoigakenai** !;おもいがけない;54237,write 54267,write 484,write 54244,write 54113,write 54269,write 54259,write
+How do you pronounce とおりすぎる?;toorisugiru;54262,read 54275,read 484,read 54252,read 54270,read 54256,read 54259,read
+Write in hiragana:** toorisugiru** !;とおりすぎる;54262,write 54275,write 484,write 54252,write 54270,write 54256,write 54259,write
+How do you pronounce おちゅうげん?;ochuugen;54250,read 486,read 54271,read 54244,read 484,read 54277,read 54259,read
+Write in hiragana:** ochuugen** !;おちゅうげん;54250,write 486,write 54271,write 54244,write 484,write 54277,write 54259,write
+How do you pronounce もうしあげる?;moushiageru;54250,read 54232,read 54267,read 54272,read 54244,read 484,read 54256,read
+Write in hiragana:** moushiageru** !;もうしあげる;54250,write 54232,write 54267,write 54272,write 54244,write 484,write 54256,write
+How do you pronounce スチュワーデス?;suchuwa-desu;54285,read 488,read 486,read 54298,read 484,read 54291,read 54317,read
+Write in katakana: **suchuwa-desu** !;スチュワーデス;54285,write 488,write 486,write 54298,write 484,write 54291,write 54317,write
+How do you pronounce にゅうじょうけん?;nyuujouken;54250,read 486,read 54272,read 484,read 54244,read 54277,read 54274,read
+Write in hiragana:** nyuujouken** !;にゅうじょうけん;54250,write 486,write 54272,write 484,write 54244,write 54277,write 54274,write
+How do you pronounce ダイヤモンド?;daiyamondo;54313,read 54308,read 54280,read 484,read 54315,read 54323,read 54287,read
+Write in katakana: **daiyamondo** !;ダイヤモンド;54313,write 54308,write 54280,write 484,write 54315,write 54323,write 54287,write
+How do you pronounce すいぞくかん?;suizokukan;54233,read 54261,read 484,read 54277,read 54252,read 54269,read 54251,read
+Write in hiragana:** suizokukan** !;すいぞくかん;54233,write 54261,write 484,write 54277,write 54252,write 54269,write 54251,write
+How do you pronounce まえうりけん?;maeuriken;54250,read 54242,read 54275,read 54244,read 54277,read 54240,read
+Write in hiragana:** maeuriken** !;まえうりけん;54250,write 54242,write 54275,write 54244,write 54277,write 54240,write
+How do you pronounce たちあがる?;tachiagaru;54232,read 54271,read 484,read 54113,read 54256,read 54234,read
+Write in hiragana:** tachiagaru** !;たちあがる;54232,write 54271,write 484,write 54113,write 54256,write 54234,write
+How do you pronounce グラウンド?;guraundo;54308,read 484,read 54284,read 54297,read 54323,read 54296,read
+Write in katakana: **guraundo** !;グラウンド;54308,write 484,write 54284,write 54297,write 54323,write 54296,write
+How do you pronounce むせいげん?;museigen;54257,read 484,read 54244,read 54277,read 54243,read 54269,read
+Write in hiragana:** museigen** !;むせいげん;54257,write 484,write 54244,write 54277,write 54243,write 54269,write
+How do you pronounce むだづかい?;mudadukai;54253,read 54233,read 54257,read 484,read 54269,read 54234,read
+Write in hiragana:** mudadukai** !;むだづかい;54253,write 54233,write 54257,write 484,write 54269,write 54234,write
+How do you pronounce ぶらさがる?;burasagaru;54235,read 484,read 54113,read 54256,read 54238,read 54254,read
+Write in hiragana:** burasagaru** !;ぶらさがる;54235,write 484,write 54113,write 54256,write 54238,write 54254,write
+How do you pronounce しほんしゅぎ?;shihonshugi;486,read 54272,read 484,read 54277,read 54263,read 54270,read
+Write in hiragana:** shihonshugi** !;しほんしゅぎ;486,write 54272,write 484,write 54277,write 54263,write 54270,write
+How do you pronounce めしあがる?;meshiagaru;54232,read 54272,read 484,read 54113,read 54256,read 54249,read
+Write in hiragana:** meshiagaru** !;めしあがる;54232,write 54272,write 484,write 54113,write 54256,write 54249,write
+How do you pronounce ラッシュアワー?;rasshuawa-;54285,read 488,read 486,read 54278,read 54284,read 54318,read
+Write in katakana: **rasshuawa-** !;ラッシュアワー;54285,write 488,write 486,write 54278,write 54284,write 54318,write
+How do you pronounce けいじばん?;keijiban;54272,read 54244,read 484,read 54277,read 54269,read 54236,read
+Write in hiragana:** keijiban** !;けいじばん;54272,write 54244,write 484,write 54277,write 54269,write 54236,write
+How do you pronounce てんきよほう?;tenkiyohou;54250,read 54268,read 54277,read 54263,read 54270,read 54245,read
+Write in hiragana:** tenkiyohou** !;てんきよほう;54250,write 54268,write 54277,write 54263,write 54270,write 54245,write
+How do you pronounce ぼくじょう?;bokujou;54250,read 486,read 54272,read 48635,read 484,read 54251,read
+Write in hiragana:** bokujou** !;ぼくじょう;54250,write 486,write 54272,write 48635,write 484,write 54251,write
+How do you pronounce よろこばす?;yorokobasu;54268,read 54265,read 484,read 54260,read 54252,read 54236,read
+Write in hiragana:** yorokobasu** !;よろこばす;54268,write 54265,write 484,write 54260,write 54252,write 54236,write
+How do you pronounce ひだりがわ?;hidarigawa;54275,read 54273,read 484,read 54113,read 54234,read 54239,read
+Write in hiragana:** hidarigawa** !;ひだりがわ;54275,write 54273,write 484,write 54113,write 54234,write 54239,write
+How do you pronounce おまわりさん?;omawarisan;54275,read 54235,read 54277,read 54240,read 54259,read 54239,read
+Write in hiragana:** omawarisan** !;おまわりさん;54275,write 54235,write 54277,write 54240,write 54259,write 54239,write
+How do you pronounce にんぎょう?;ningyou;54250,read 486,read 484,read 54277,read 54270,read 54274,read
+Write in hiragana:** ningyou** !;にんぎょう;54250,write 486,write 484,write 54277,write 54270,write 54274,write
+How do you pronounce くだらない?;kudaranai;54237,read 54251,read 484,read 54269,read 54238,read 54234,read
+Write in hiragana:** kudaranai** !;くだらない;54237,write 54251,write 484,write 54269,write 54238,write 54234,write
+How do you pronounce セールスマン?;se-rusuman;488,read 54298,read 54286,read 54289,read 54323,read 54302,read
+Write in katakana: **se-rusuman** !;セールスマン;488,write 54298,write 54286,write 54289,write 54323,write 54302,write
+How do you pronounce ぎゅうにく?;gyuuniku;54250,read 486,read 484,read 54270,read 54274,read 54251,read
+Write in hiragana:** gyuuniku** !;ぎゅうにく;54250,write 486,write 484,write 54270,write 54274,write 54251,write
+How do you pronounce ミーティング?;mi-tingu;488,read 484,read 54291,read 54297,read 54323,read 54322,read
+Write in katakana: **mi-tingu** !;ミーティング;488,write 484,write 54291,write 54297,write 54323,write 54322,write
+How do you pronounce カレーライス?;kare-raisu;54294,read 488,read 54298,read 54315,read 54284,read 54279,read
+Write in katakana: **kare-raisu** !;カレーライス;54294,write 488,write 54298,write 54315,write 54284,write 54279,write
+How do you pronounce おとずれる?;otozureru;54262,read 484,read 54252,read 54248,read 54256,read 54259,read
+Write in hiragana:** otozureru** !;おとずれる;54262,write 484,write 54252,write 54248,write 54256,write 54259,write
+How do you pronounce ハードウェア?;ha-dowea;54282,read 488,read 54308,read 54278,read 484,read 54296,read
+Write in katakana: **ha-dowea** !;ハードウェア;54282,write 488,write 54308,write 54278,write 484,write 54296,write
+How do you pronounce ビデオテープ?;bideote-pu;488,read 54305,read 484,read 54291,read 54300,read 54319,read
+Write in katakana: **bideote-pu** !;ビデオテープ;488,write 54305,write 484,write 54291,write 54300,write 54319,write
+How do you pronounce とうもろこし?;toumorokoshi;54250,read 54267,read 54262,read 54272,read 54265,read 54260,read
+Write in hiragana:** toumorokoshi** !;とうもろこし;54250,write 54267,write 54262,write 54272,write 54265,write 54260,write
+How do you pronounce ジョギング?;jogingu;486,read 54316,read 484,read 54318,read 54297,read 54323,read
+Write in katakana: **jogingu** !;ジョギング;486,write 54316,write 484,write 54318,write 54297,write 54323,write
+How do you pronounce きんようび?;kin'youbi;54250,read 54273,read 54268,read 484,read 54277,read 54270,read
+Write in hiragana:** kin'youbi** !;きんようび;54250,write 54273,write 54268,write 484,write 54277,write 54270,write
+How do you pronounce たちどまる?;tachidomaru;54262,read 54271,read 484,read 54256,read 54234,read 54240,read
+Write in hiragana:** tachidomaru** !;たちどまる;54262,write 54271,write 484,write 54256,write 54234,write 54240,write
+How do you pronounce うすぐらい?;usugurai;54250,read 484,read 54252,read 54269,read 54238,read 54251,read
+Write in hiragana:** usugurai** !;うすぐらい;54250,write 484,write 54252,write 54269,write 54238,write 54251,write
+How do you pronounce まちのぞむ?;machinozomu;54261,read 54271,read 484,read 54257,read 54264,read 54240,read
+Write in hiragana:** machinozomu** !;まちのぞむ;54261,write 54271,write 484,write 54257,write 54264,write 54240,write
+How do you pronounce アルミニウム?;aruminiumu;54303,read 54278,read 54296,read 54322,read 54320,read 54302,read
+Write in katakana: **aruminiumu** !;アルミニウム;54303,write 54278,write 54296,write 54322,write 54320,write 54302,write
+How do you pronounce アナウンサー?;anaunsa-;488,read 54281,read 54283,read 54278,read 54323,read 54296,read
+Write in katakana: **anaunsa-** !;アナウンサー;488,write 54281,write 54283,write 54278,write 54323,write 54296,write
+How do you pronounce おもいきって?;omoikitte;54267,read 487,read 54270,read 54245,read 54269,read 54259,read
+Write in hiragana:** omoikitte** !;おもいきって;54267,write 487,write 54270,write 54245,write 54269,write 54259,write
+How do you pronounce タイプライター?;taipuraita-;488,read 54280,read 484,read 54315,read 54284,read 54300,read
+Write in katakana: **taipuraita-** !;タイプライター;488,write 54280,write 484,write 54315,write 54284,write 54300,write
+How do you pronounce ねんじゅう?;nenjuu;54250,read 486,read 54272,read 484,read 54277,read 54247,read
+Write in hiragana:** nenjuu** !;ねんじゅう;54250,write 486,write 54272,write 484,write 54277,write 54247,write
+How do you pronounce じょうやく?;jouyaku;54250,read 486,read 54272,read 54241,read 484,read 54251,read
+Write in hiragana:** jouyaku** !;じょうやく;54250,write 486,write 54272,write 54241,write 484,write 54251,write
+How do you pronounce エスカレーター?;esukare-ta-;54294,read 488,read 54280,read 54298,read 54279,read 54288,read
+Write in katakana: **esukare-ta-** !;エスカレーター;54294,write 488,write 54280,write 54298,write 54279,write 54288,write
+How do you pronounce けんぶつにん?;kenbutsunin;54253,read 54244,read 484,read 54277,read 54274,read 54254,read
+Write in hiragana:** kenbutsunin** !;けんぶつにん;54253,write 54244,write 484,write 54277,write 54274,write 54254,write
+How do you pronounce おぼうさん?;obousan;54250,read 48635,read 54235,read 484,read 54277,read 54259,read
+Write in hiragana:** obousan** !;おぼうさん;54250,write 48635,write 54235,write 484,write 54277,write 54259,write
+How do you pronounce むずかしい?;muzukashii;54272,read 54233,read 54257,read 484,read 54252,read 54269,read
+Write in hiragana:** muzukashii** !;むずかしい;54272,write 54233,write 54257,write 484,write 54252,write 54269,write
+How do you pronounce おしゃべり?;oshaberi;54246,read 486,read 54272,read 54275,read 484,read 54259,read
+Write in hiragana:** oshaberi** !;おしゃべり;54246,write 486,write 54272,write 54275,write 484,write 54259,write
+How do you pronounce ほうがくぶ?;hougakubu;54250,read 484,read 54263,read 54113,read 54254,read 54251,read
+Write in hiragana:** hougakubu** !;ほうがくぶ;54250,write 484,write 54263,write 54113,write 54254,write 54251,write
+How do you pronounce ハイキング?;haikingu;54282,read 54316,read 484,read 54315,read 54297,read 54323,read
+Write in katakana: **haikingu** !;ハイキング;54282,write 54316,write 484,write 54315,write 54297,write 54323,write
+How do you pronounce できあがる?;dekiagaru;54232,read 484,read 54113,read 54270,read 54245,read 54256,read
+Write in hiragana:** dekiagaru** !;できあがる;54232,write 484,write 54113,write 54270,write 54245,write 54256,write
+How do you pronounce つきはじめ?;tsukihajime;54272,read 54253,read 484,read 54270,read 54249,read 54236,read
+Write in hiragana:** tsukihajime** !;つきはじめ;54272,write 54253,write 484,write 54270,write 54249,write 54236,write
+How do you pronounce じゅうやく?;juuyaku;54250,read 486,read 54272,read 54241,read 484,read 54251,read
+Write in hiragana:** juuyaku** !;じゅうやく;54250,write 486,write 54272,write 54241,write 484,write 54251,write
+How do you pronounce ミュージック?;myu-jikku;488,read 486,read 484,read 54318,read 54297,read 54322,read
+Write in katakana: **myu-jikku** !;ミュージック;488,write 486,write 484,write 54318,write 54297,write 54322,write
+How do you pronounce いっさくねん?;issakunen;54235,read 487,read 54277,read 54247,read 54269,read 54251,read
+Write in hiragana:** issakunen** !;いっさくねん;54235,write 487,write 54277,write 54247,write 54269,write 54251,write
+How do you pronounce アルファベット?;arufabetto;54292,read 54308,read 54278,read 484,read 54300,read 54302,read
+Write in katakana: **arufabetto** !;アルファベット;54292,write 54308,write 54278,write 484,write 54300,write 54302,write
+How do you pronounce ぼうりょく?;bouryoku;54250,read 486,read 54275,read 48635,read 484,read 54251,read
+Write in hiragana:** bouryoku** !;ぼうりょく;54250,write 486,write 54275,write 48635,write 484,write 54251,write
+How do you pronounce みどりいろ?;midoriiro;54262,read 54275,read 484,read 54265,read 54276,read 54269,read
+Write in hiragana:** midoriiro** !;みどりいろ;54262,write 54275,write 484,write 54265,write 54276,write 54269,write
+How do you pronounce ジャガイモ?;jagaimo;54313,read 486,read 484,read 54315,read 54318,read 54279,read
+Write in katakana: **jagaimo** !;ジャガイモ;54313,write 486,write 484,write 54315,write 54318,write 54279,write
+How do you pronounce めんきょしょう?;menkyoshou;54250,read 486,read 54272,read 54277,read 54270,read 54249,read
+Write in hiragana:** menkyoshou** !;めんきょしょう;54250,write 486,write 54272,write 54277,write 54270,write 54249,write
+How do you pronounce おどろかす?;odorokasu;54262,read 54233,read 484,read 54265,read 54252,read 54259,read
+Write in hiragana:** odorokasu** !;おどろかす;54262,write 54233,write 484,write 54265,write 54252,write 54259,write
+How do you pronounce みくらべる?;mikuraberu;54246,read 484,read 54256,read 54276,read 54238,read 54251,read
+Write in hiragana:** mikuraberu** !;みくらべる;54246,write 484,write 54256,write 54276,write 54238,write 54251,write
+How do you pronounce じゅうみん?;juumin;54250,read 486,read 54272,read 484,read 54277,read 54276,read
+Write in hiragana:** juumin** !;じゅうみん;54250,write 486,write 54272,write 484,write 54277,write 54276,write
+How do you pronounce アルバイト?;arubaito;54282,read 54308,read 54278,read 484,read 54315,read 54302,read
+Write in katakana: **arubaito** !;アルバイト;54282,write 54308,write 54278,write 484,write 54315,write 54302,write
+How do you pronounce ろうどうしゃ?;roudousha;54250,read 486,read 54262,read 54272,read 54265,read 484,read
+Write in hiragana:** roudousha** !;ろうどうしゃ;54250,write 486,write 54262,write 54272,write 54265,write 484,write
+How do you pronounce つけくわえる?;tsukekuwaeru;54242,read 54253,read 54244,read 54256,read 54251,read 54239,read
+Write in hiragana:** tsukekuwaeru** !;つけくわえる;54242,write 54253,write 54244,write 54256,write 54251,write 54239,write
+How do you pronounce にゅうがく?;nyuugaku;54250,read 486,read 484,read 54113,read 54274,read 54251,read
+Write in hiragana:** nyuugaku** !;にゅうがく;54250,write 486,write 484,write 54113,write 54274,write 54251,write
+How do you pronounce びょうにん?;byounin;54250,read 486,read 54273,read 484,read 54277,read 54274,read
+Write in hiragana:** byounin** !;びょうにん;54250,write 486,write 54273,write 484,write 54277,write 54274,write
+How do you pronounce オーケストラ?;o-kesutora;488,read 54305,read 54290,read 54308,read 54298,read 54284,read
+Write in katakana: **o-kesutora** !;オーケストラ;488,write 54305,write 54290,write 54308,write 54298,write 54284,write
+How do you pronounce むこうがわ?;mukougawa;54250,read 54257,read 484,read 54260,read 54113,read 54239,read
+Write in hiragana:** mukougawa** !;むこうがわ;54250,write 54257,write 484,write 54260,write 54113,write 54239,write
+How do you pronounce しょうべん?;shouben;54250,read 54246,read 486,read 54272,read 484,read 54277,read
+Write in hiragana:** shouben** !;しょうべん;54250,write 54246,write 486,write 54272,write 484,write 54277,write
+How do you pronounce サンドイッチ?;sandoicchi;54281,read 54308,read 484,read 54315,read 54317,read 54323,read
+Write in katakana: **sandoicchi** !;サンドイッチ;54281,write 54308,write 484,write 54315,write 54317,write 54323,write
+How do you pronounce プレゼント?;purezento;54294,read 54308,read 484,read 54289,read 54300,read 54323,read
+Write in katakana: **purezento** !;プレゼント;54294,write 54308,write 484,write 54289,write 54300,write 54323,write
+How do you pronounce あかんぼう?;akanbou;54250,read 54232,read 54233,read 48635,read 484,read 54277,read
+Write in hiragana:** akanbou** !;あかんぼう;54250,write 54232,write 54233,write 48635,write 484,write 54277,write
+How do you pronounce おんならしい?;on'narashii;54237,read 54259,read 54272,read 54277,read 54269,read 54238,read
+Write in hiragana:** on'narashii** !;おんならしい;54237,write 54259,write 54272,write 54277,write 54269,write 54238,write
+How do you pronounce おおよろこび?;ooyorokobi;54273,read 54268,read 54265,read 484,read 54260,read 54259,read
+Write in hiragana:** ooyorokobi** !;おおよろこび;54273,write 54268,write 54265,write 484,write 54260,write 54259,write
+How do you pronounce はなしことば?;hanashikotoba;54237,read 54262,read 54272,read 484,read 54260,read 54236,read
+Write in hiragana:** hanashikotoba** !;はなしことば;54237,write 54262,write 54272,write 484,write 54260,write 54236,write
+How do you pronounce ぎょうれつ?;gyouretsu;54250,read 486,read 54253,read 484,read 54248,read 54270,read
+Write in hiragana:** gyouretsu** !;ぎょうれつ;54250,write 486,write 54253,write 484,write 54248,write 54270,write
+How do you pronounce まちはずれ?;machihazure;54271,read 484,read 54252,read 54248,read 54240,read 54236,read
+Write in hiragana:** machihazure** !;まちはずれ;54271,write 484,write 54252,write 54248,write 54240,write 54236,write
+How do you pronounce ものすごい?;monosugoi;54267,read 484,read 54252,read 54260,read 54269,read 54264,read
+Write in hiragana:** monosugoi** !;ものすごい;54267,write 484,write 54252,write 54260,write 54269,write 54264,write
+How do you pronounce くすりゆび?;kusuriyubi;54275,read 54273,read 484,read 54252,read 54258,read 54251,read
+Write in hiragana:** kusuriyubi** !;くすりゆび;54275,write 54273,write 484,write 54252,write 54258,write 54251,write
+How do you pronounce うらがえし?;uragaeshi;54250,read 54242,read 54272,read 484,read 54113,read 54238,read
+Write in hiragana:** uragaeshi** !;うらがえし;54250,write 54242,write 54272,write 484,write 54113,write 54238,write
+How do you pronounce みちじゅん?;michijun;486,read 54272,read 54271,read 484,read 54277,read 54276,read
+Write in hiragana:** michijun** !;みちじゅん;486,write 54272,write 54271,write 484,write 54277,write 54276,write
+How do you pronounce りょうがえ?;ryougae;54250,read 54242,read 486,read 54275,read 484,read 54113,read
+Write in hiragana:** ryougae** !;りょうがえ;54250,write 54242,write 486,write 54275,write 484,write 54113,write
+How do you pronounce コンクリート?;konkuri-to;488,read 54308,read 54306,read 54297,read 54323,read 54321,read
+Write in katakana: **konkuri-to** !;コンクリート;488,write 54308,write 54306,write 54297,write 54323,write 54321,write
+How do you pronounce じょうねつ?;jounetsu;54250,read 486,read 54272,read 54253,read 484,read 54247,read
+Write in hiragana:** jounetsu** !;じょうねつ;54250,write 486,write 54272,write 54253,write 484,write 54247,write
+How do you pronounce わらいごえ?;waraigoe;54242,read 484,read 54260,read 54269,read 54238,read 54239,read
+Write in hiragana:** waraigoe** !;わらいごえ;54242,write 484,write 54260,write 54269,write 54238,write 54239,write
+How do you pronounce プログラム?;puroguramu;54303,read 54311,read 484,read 54284,read 54300,read 54297,read
+Write in katakana: **puroguramu** !;プログラム;54303,write 54311,write 484,write 54284,write 54300,write 54297,write
+How do you pronounce こころぼそい?;kokorobosoi;48635,read 54261,read 54265,read 484,read 54260,read 54269,read
+Write in hiragana:** kokorobosoi** !;こころぼそい;48635,write 54261,write 54265,write 484,write 54260,write 54269,write
+How do you pronounce ワンピース?;wanpi-su;54285,read 488,read 54323,read 54298,read 484,read 54319,read
+Write in katakana: **wanpi-su** !;ワンピース;54285,write 488,write 54323,write 54298,write 484,write 54319,write
+How do you pronounce めぐまれる?;megumareru;484,read 54248,read 54256,read 54249,read 54251,read 54240,read
+Write in hiragana:** megumareru** !;めぐまれる;484,write 54248,write 54256,write 54249,write 54251,write 54240,write
+How do you pronounce にんじょう?;ninjou;54250,read 486,read 54272,read 484,read 54277,read 54274,read
+Write in hiragana:** ninjou** !;にんじょう;54250,write 486,write 54272,write 484,write 54277,write 54274,write
+How do you pronounce えいがかん?;eigakan;54242,read 54233,read 484,read 54277,read 54113,read 54269,read
+Write in hiragana:** eigakan** !;えいがかん;54242,write 54233,write 484,write 54277,write 54113,write 54269,write
+How do you pronounce ボリューム?;boryu-mu;488,read 54303,read 54309,read 486,read 484,read 54321,read
+Write in katakana: **boryu-mu** !;ボリューム;488,write 54303,write 54309,write 486,write 484,write 54321,write
+How do you pronounce ほそながい?;hosonagai;54237,read 54261,read 484,read 54263,read 54113,read 54269,read
+Write in hiragana:** hosonagai** !;ほそながい;54237,write 54261,write 484,write 54263,write 54113,write 54269,write
+How do you pronounce みちがえる?;michigaeru;54242,read 54271,read 484,read 54113,read 54256,read 54276,read
+Write in hiragana:** michigaeru** !;みちがえる;54242,write 54271,write 484,write 54113,write 54256,write 54276,write
+How do you pronounce カレンダー?;karenda-;54294,read 488,read 54280,read 484,read 54279,read 54323,read
+Write in katakana: **karenda-** !;カレンダー;54294,write 488,write 54280,write 484,write 54279,write 54323,write
+How do you pronounce あこがれる?;akogareru;54232,read 484,read 54260,read 54113,read 54248,read 54256,read
+Write in hiragana:** akogareru** !;あこがれる;54232,write 484,write 54260,write 54113,write 54248,write 54256,write
+How do you pronounce ものおぼえ?;monooboe;54242,read 54267,read 48635,read 484,read 54264,read 54259,read
+Write in hiragana:** monooboe** !;ものおぼえ;54242,write 54267,write 48635,write 484,write 54264,write 54259,write
+How do you pronounce プラスチック?;purasuchikku;54298,read 484,read 54317,read 54284,read 54300,read 54297,read
+Write in katakana: **purasuchikku** !;プラスチック;54298,write 484,write 54317,write 54284,write 54300,write 54297,write
+How do you pronounce うらやましい?;urayamashii;54250,read 54272,read 54241,read 54269,read 54238,read 54240,read
+Write in hiragana:** urayamashii** !;うらやましい;54250,write 54272,write 54241,write 54269,write 54238,write 54240,write
+How do you pronounce マヨネーズ?;mayone-zu;488,read 54298,read 54314,read 484,read 54286,read 54293,read
+Write in katakana: **mayone-zu** !;マヨネーズ;488,write 54298,write 54314,write 484,write 54286,write 54293,write
+How do you pronounce エネルギー?;enerugi-;488,read 54316,read 484,read 54293,read 54288,read 54302,read
+Write in katakana: **enerugi-** !;エネルギー;488,write 54316,write 484,write 54293,write 54288,write 54302,write
+How do you pronounce レインコート?;reinko-to;54294,read 488,read 54308,read 54315,read 54306,read 54323,read
+Write in katakana: **reinko-to** !;レインコート;54294,write 488,write 54308,write 54315,write 54306,write 54323,write
+How do you pronounce アクセサリー?;akusesari-;488,read 54281,read 54278,read 54289,read 54297,read 54321,read
+Write in katakana: **akusesari-** !;アクセサリー;488,write 54281,write 54278,write 54289,write 54297,write 54321,write
+How do you pronounce べんきょう?;benkyou;54246,read 54250,read 486,read 484,read 54277,read 54270,read
+Write in hiragana:** benkyou** !;べんきょう;54246,write 54250,write 486,write 484,write 54277,write 54270,write
+How do you pronounce このあいだ?;konoaida;54232,read 54264,read 484,read 54260,read 54269,read 54234,read
+Write in hiragana:** konoaida** !;このあいだ;54232,write 54264,write 484,write 54260,write 54269,write 54234,write
+How do you pronounce ぼんおどり?;bon'odori;54262,read 54275,read 48635,read 484,read 54277,read 54259,read
+Write in hiragana:** bon'odori** !;ぼんおどり;54262,write 54275,write 48635,write 484,write 54277,write 54259,write
+How do you pronounce パーセント?;pa-sento;54282,read 488,read 54308,read 484,read 54289,read 54323,read
+Write in katakana: **pa-sento** !;パーセント;54282,write 488,write 54308,write 484,write 54289,write 54323,write
+How do you pronounce バイオリン?;baiorin;54282,read 54305,read 484,read 54315,read 54323,read 54321,read
+Write in katakana: **baiorin** !;バイオリン;54282,write 54305,write 484,write 54315,write 54323,write 54321,write
+How do you pronounce アイスコーヒー?;aisuko-hi-;488,read 54298,read 54278,read 54315,read 54306,read 54319,read
+Write in katakana: **aisuko-hi-** !;アイスコーヒー;488,write 54298,write 54278,write 54315,write 54306,write 54319,write
+How do you pronounce エレベーター?;erebe-ta-;54294,read 488,read 54292,read 54280,read 484,read 54288,read
+Write in katakana: **erebe-ta-** !;エレベーター;54294,write 488,write 54292,write 54280,write 484,write 54288,write
+How do you pronounce サングラス?;sangurasu;54281,read 54298,read 484,read 54284,read 54297,read 54323,read
+Write in katakana: **sangurasu** !;サングラス;54281,write 54298,write 484,write 54284,write 54297,write 54323,write
+How do you pronounce やまのぼり?;yamanobori;54241,read 54275,read 48635,read 484,read 54264,read 54240,read
+Write in hiragana:** yamanobori** !;やまのぼり;54241,write 54275,write 48635,write 484,write 54264,write 54240,write
+How do you pronounce バレーボール?;bare-bo-ru;54282,read 488,read 54294,read 54309,read 484,read 54302,read
+Write in katakana: **bare-bo-ru** !;バレーボール;54282,write 488,write 54294,write 54309,write 484,write 54302,write
+How do you pronounce ちょうほうけい?;chouhoukei;54250,read 486,read 54271,read 54244,read 54263,read 54269,read
+Write in hiragana:** chouhoukei** !;ちょうほうけい;54250,write 486,write 54271,write 54244,write 54263,write 54269,write
+How do you pronounce クリーニング?;kuri-ningu;488,read 484,read 54297,read 54323,read 54321,read 54320,read
+Write in katakana: **kuri-ningu** !;クリーニング;488,write 484,write 54297,write 54323,write 54321,write 54320,write
+How do you pronounce オリンピック?;orinpikku;54305,read 54323,read 484,read 54297,read 54319,read 54321,read
+Write in katakana: **orinpikku** !;オリンピック;54305,write 54323,write 484,write 54297,write 54319,write 54321,write
+How do you pronounce セロテープ?;serote-pu;488,read 54311,read 484,read 54291,read 54289,read 54300,read
+Write in katakana: **serote-pu** !;セロテープ;488,write 54311,write 484,write 54291,write 54289,write 54300,write
+How do you pronounce チョコレート?;chokore-to;54294,read 488,read 486,read 54308,read 54317,read 54306,read
+Write in katakana: **chokore-to** !;チョコレート;54294,write 488,write 486,write 54308,write 54317,write 54306,write
+How do you pronounce ひとさしゆび?;hitosashiyubi;54262,read 54272,read 54273,read 54235,read 484,read 54258,read
+Write in hiragana:** hitosashiyubi** !;ひとさしゆび;54262,write 54272,write 54273,write 54235,write 484,write 54258,write
+How do you pronounce ショッピング?;shoppingu;486,read 54323,read 484,read 54318,read 54297,read 54319,read
+Write in katakana: **shoppingu** !;ショッピング;486,write 54323,write 484,write 54318,write 54297,write 54319,write
+How do you pronounce むせいぶつ?;museibutsu;54253,read 54257,read 484,read 54243,read 54269,read 54254,read
+Write in hiragana:** museibutsu** !;むせいぶつ;54253,write 54257,write 484,write 54243,write 54269,write 54254,write
+How do you pronounce パスポート?;pasupo-to;54282,read 488,read 54309,read 54308,read 54298,read 484,read
+Write in katakana: **pasupo-to** !;パスポート;54282,write 488,write 54309,write 54308,write 54298,write 484,write
+How do you pronounce サラリーマン?;sarari-man;488,read 54281,read 54286,read 54284,read 54323,read 54321,read
+Write in katakana: **sarari-man** !;サラリーマン;488,write 54281,write 54286,write 54284,write 54323,write 54321,write
+How do you pronounce のりおくれる?;noriokureru;54275,read 54248,read 54256,read 54264,read 54259,read 54251,read
+Write in hiragana:** noriokureru** !;のりおくれる;54275,write 54248,write 54256,write 54264,write 54259,write 54251,write
+How do you pronounce イヤリング?;iyaringu;484,read 54315,read 54297,read 54323,read 54321,read 54287,read
+Write in katakana: **iyaringu** !;イヤリング;484,write 54315,write 54297,write 54323,write 54321,write 54287,write
+How do you pronounce コマーシャル?;koma-sharu;488,read 486,read 54286,read 54318,read 54306,read 54302,read
+Write in katakana: **koma-sharu** !;コマーシャル;488,write 486,write 54286,write 54318,write 54306,write 54302,write
+How do you pronounce ほんかくてき?;honkakuteki;54233,read 54263,read 54277,read 54245,read 54270,read 54251,read
+Write in hiragana:** honkakuteki** !;ほんかくてき;54233,write 54263,write 54277,write 54245,write 54270,write 54251,write
+How do you pronounce やわらげる?;yawarageru;54241,read 54244,read 484,read 54256,read 54238,read 54239,read
+Write in hiragana:** yawarageru** !;やわらげる;54241,write 54244,write 484,write 54256,write 54238,write 54239,write
+How do you pronounce オートバイ?;o-tobai;54282,read 488,read 54305,read 54308,read 484,read 54315,read
+Write in katakana: **o-tobai** !;オートバイ;54282,write 488,write 54305,write 54308,write 484,write 54315,write
+How do you pronounce あまのがわ?;amanogawa;54232,read 484,read 54113,read 54239,read 54264,read 54240,read
+Write in hiragana:** amanogawa** !;あまのがわ;54232,write 484,write 54113,write 54239,write 54264,write 54240,write
+How do you pronounce くみあわせる?;kumiawaseru;54232,read 54243,read 54256,read 54276,read 54251,read 54239,read
+Write in hiragana:** kumiawaseru** !;くみあわせる;54232,write 54243,write 54256,write 54276,write 54251,write 54239,write
+How do you pronounce れいぞうこ?;reizouko;54250,read 54261,read 484,read 54248,read 54260,read 54269,read
+Write in hiragana:** reizouko** !;れいぞうこ;54250,write 54261,write 484,write 54248,write 54260,write 54269,write
+How do you pronounce しょくみんち?;shokuminchi;486,read 54272,read 54271,read 54277,read 54276,read 54251,read
+Write in hiragana:** shokuminchi** !;しょくみんち;486,write 54272,write 54271,write 54277,write 54276,write 54251,write
+How do you pronounce ボールペン?;bo-rupen;488,read 54309,read 54292,read 484,read 54323,read 54302,read
+Write in katakana: **bo-rupen** !;ボールペン;488,write 54309,write 54292,write 484,write 54323,write 54302,write
+How do you pronounce くたびれる?;kutabireru;54251,read 54273,read 484,read 54248,read 54256,read 54234,read
+Write in hiragana:** kutabireru** !;くたびれる;54251,write 54273,write 484,write 54248,write 54256,write 54234,write
+How do you pronounce すいへいせん?;suiheisen;54246,read 54277,read 54252,read 54243,read 54269,read
+Write in hiragana:** suiheisen** !;すいへいせん;54246,write 54277,write 54252,write 54243,write 54269,write
+How do you pronounce なるべく?;narubeku;54237,read 54246,read 484,read 54256,read 54251,read
+Write in hiragana:** narubeku** !;なるべく;54237,write 54246,write 484,write 54256,write 54251,write
+How do you pronounce ワイシャツ?;waishatsu;54285,read 486,read 54315,read 54318,read 54299,read
+Write in katakana: **waishatsu** !;ワイシャツ;54285,write 486,write 54315,write 54318,write 54299,write
+How do you pronounce パソコン?;pasokon;54282,read 484,read 54307,read 54306,read 54323,read
+Write in katakana: **pasokon** !;パソコン;54282,write 484,write 54307,write 54306,write 54323,write
+How do you pronounce スポーツ?;supo-tsu;488,read 54309,read 54298,read 484,read 54299,read
+Write in katakana: **supo-tsu** !;スポーツ;488,write 54309,write 54298,write 484,write 54299,write
+How do you pronounce とくべつ?;tokubetsu;54246,read 54262,read 54253,read 484,read 54251,read
+Write in hiragana:** tokubetsu** !;とくべつ;54246,write 54262,write 54253,write 484,write 54251,write
+How do you pronounce もうしこむ?;moushikomu;54250,read 54267,read 54272,read 54257,read 54260,read
+Write in hiragana:** moushikomu** !;もうしこむ;54250,write 54267,write 54272,write 54257,write 54260,write
+How do you pronounce まんねんひつ?;man'nenhitsu;54253,read 54273,read 54277,read 54247,read 54240,read
+Write in hiragana:** man'nenhitsu** !;まんねんひつ;54253,write 54273,write 54277,write 54247,write 54240,write
+How do you pronounce キャンプ?;kyanpu;486,read 54316,read 484,read 54300,read 54323,read
+Write in katakana: **kyanpu** !;キャンプ;486,write 54316,write 484,write 54300,write 54323,write
+How do you pronounce たずねる?;tazuneru;54247,read 484,read 54252,read 54256,read 54234,read
+Write in hiragana:** tazuneru** !;たずねる;54247,write 484,write 54252,write 54256,write 54234,write
+How do you pronounce カメラマン?;kameraman;54295,read 54286,read 54279,read 54284,read 54323,read
+Write in katakana: **kameraman** !;カメラマン;54295,write 54286,write 54279,write 54284,write 54323,write
+How do you pronounce ゆうげん?;yuugen;54250,read 54244,read 484,read 54277,read 54258,read
+Write in hiragana:** yuugen** !;ゆうげん;54250,write 54244,write 484,write 54277,write 54258,write
+How do you pronounce エアメール?;eame-ru;488,read 54278,read 54295,read 54288,read 54302,read
+Write in katakana: **eame-ru** !;エアメール;488,write 54278,write 54295,write 54288,write 54302,write
+How do you pronounce ストライキ?;sutoraiki;54316,read 54308,read 54298,read 54315,read 54284,read
+Write in katakana: **sutoraiki** !;ストライキ;54316,write 54308,write 54298,write 54315,write 54284,write
+How do you pronounce ゆうがい?;yuugai;54250,read 484,read 54113,read 54258,read 54269,read
+Write in hiragana:** yuugai** !;ゆうがい;54250,write 484,write 54113,write 54258,write 54269,write
+How do you pronounce ナンバー?;nanba-;54282,read 488,read 54283,read 484,read 54323,read
+Write in katakana: **nanba-** !;ナンバー;54282,write 488,write 54283,write 484,write 54323,write
+How do you pronounce ゆうしょく?;yuushoku;54250,read 486,read 54272,read 54258,read 54251,read
+Write in hiragana:** yuushoku** !;ゆうしょく;54250,write 486,write 54272,write 54258,write 54251,write
+How do you pronounce カタログ?;katarogu;54311,read 54280,read 484,read 54297,read 54279,read
+Write in katakana: **katarogu** !;カタログ;54311,write 54280,write 484,write 54297,write 54279,write
+How do you pronounce ゆうじょう?;yuujou;54250,read 486,read 54272,read 484,read 54258,read
+Write in hiragana:** yuujou** !;ゆうじょう;54250,write 486,write 54272,write 484,write 54258,write
+How do you pronounce デザイン?;dezain;54281,read 484,read 54291,read 54315,read 54323,read
+Write in katakana: **dezain** !;デザイン;54281,write 484,write 54291,write 54315,write 54323,write
+How do you pronounce キャンセル?;kyanseru;486,read 54316,read 54289,read 54323,read 54302,read
+Write in katakana: **kyanseru** !;キャンセル;486,write 54316,write 54289,write 54323,write 54302,write
+How do you pronounce メロディー?;merodi-;488,read 54311,read 54295,read 484,read 54291,read
+Write in katakana: **merodi-** !;メロディー;488,write 54311,write 54295,write 484,write 54291,write
+How do you pronounce ロマンチック?;romanchikku;54311,read 54286,read 54317,read 54297,read 54323,read
+Write in katakana: **romanchikku** !;ロマンチック;54311,write 54286,write 54317,write 54297,write 54323,write
+How do you pronounce ブラウス?;burausu;54298,read 484,read 54284,read 54300,read 54296,read
+Write in katakana: **burausu** !;ブラウス;54298,write 484,write 54284,write 54300,write 54296,write
+How do you pronounce メンバー?;menba-;54282,read 488,read 54295,read 484,read 54323,read
+Write in katakana: **menba-** !;メンバー;54282,write 488,write 54295,write 484,write 54323,write
+How do you pronounce キャベツ?;kyabetsu;54292,read 486,read 54316,read 484,read 54299,read
+Write in katakana: **kyabetsu** !;キャベツ;54292,write 486,write 54316,write 484,write 54299,write
+How do you pronounce チャンネル?;chan'neru;486,read 54317,read 54293,read 54323,read 54302,read
+Write in katakana: **chan'neru** !;チャンネル;486,write 54317,write 54293,write 54323,write 54302,write
+How do you pronounce ウェートレス?;we-toresu;488,read 54294,read 54308,read 54298,read 54296,read
+Write in katakana: **we-toresu** !;ウェートレス;488,write 54294,write 54308,write 54298,write 54296,write
+How do you pronounce パチンコ?;pachinko;54282,read 484,read 54317,read 54306,read 54323,read
+Write in katakana: **pachinko** !;パチンコ;54282,write 484,write 54317,write 54306,write 54323,write
+How do you pronounce アルバム?;arubamu;54282,read 54303,read 54278,read 484,read 54302,read
+Write in katakana: **arubamu** !;アルバム;54282,write 54303,write 54278,write 484,write 54302,write
+How do you pronounce サービス?;sa-bisu;488,read 54281,read 54298,read 484,read 54319,read
+Write in katakana: **sa-bisu** !;サービス;488,write 54281,write 54298,write 484,write 54319,write
+How do you pronounce バーゲン?;ba-gen;54282,read 488,read 54290,read 484,read 54323,read
+Write in katakana: **ba-gen** !;バーゲン;54282,write 488,write 54290,write 484,write 54323,write
+How do you pronounce パジャマ?;pajama;54282,read 486,read 484,read 54286,read 54318,read
+Write in katakana: **pajama** !;パジャマ;54282,write 486,write 484,write 54286,write 54318,write
+How do you pronounce ビタミン?;bitamin;54319,read 54280,read 484,read 54323,read 54322,read
+Write in katakana: **bitamin** !;ビタミン;54319,write 54280,write 484,write 54323,write 54322,write
+How do you pronounce きをつける?;kiwotsukeru;54253,read 54244,read 54270,read 54256,read 54266,read
+Write in hiragana:** kiwotsukeru** !;きをつける;54253,write 54244,write 54270,write 54256,write 54266,write
+How do you pronounce ワープロ?;wa-puro;54285,read 488,read 54311,read 484,read 54300,read
+Write in katakana: **wa-puro** !;ワープロ;54285,write 488,write 54311,write 484,write 54300,write
+How do you pronounce オルガン?;orugan;54305,read 54323,read 484,read 54279,read 54302,read
+Write in katakana: **orugan** !;オルガン;54305,write 54323,write 484,write 54279,write 54302,write
+How do you pronounce ビジネス?;bijinesu;54298,read 484,read 54318,read 54293,read 54319,read
+Write in katakana: **bijinesu** !;ビジネス;54298,write 484,write 54318,write 54293,write 54319,write
+How do you pronounce ネットワーク?;nettowa-ku;54285,read 488,read 54308,read 54293,read 54297,read
+Write in katakana: **nettowa-ku** !;ネットワーク;54285,write 488,write 54308,write 54293,write 54297,write
+How do you pronounce カンニング?;kan'ningu;484,read 54279,read 54297,read 54323,read 54320,read
+Write in katakana: **kan'ningu** !;カンニング;484,write 54279,write 54297,write 54323,write 54320,write
+How do you pronounce レントゲン?;rentogen;54294,read 54290,read 54308,read 484,read 54323,read
+Write in katakana: **rentogen** !;レントゲン;54294,write 54290,write 54308,write 484,write 54323,write
+How do you pronounce ビニール?;bini-ru;488,read 484,read 54319,read 54320,read 54302,read
+Write in katakana: **bini-ru** !;ビニール;488,write 484,write 54319,write 54320,write 54302,write
+How do you pronounce アンケート?;anke-to;488,read 54290,read 54308,read 54278,read 54323,read
+Write in katakana: **anke-to** !;アンケート;488,write 54290,write 54308,write 54278,write 54323,write
+How do you pronounce ボーナス?;bo-nasu;488,read 54309,read 54298,read 484,read 54283,read
+Write in katakana: **bo-nasu** !;ボーナス;488,write 54309,write 54298,write 484,write 54283,write
+How do you pronounce スピーチ?;supi-chi;488,read 54298,read 484,read 54317,read 54319,read
+Write in katakana: **supi-chi** !;スピーチ;488,write 54298,write 484,write 54317,write 54319,write
+How do you pronounce パイロット?;pairotto;54282,read 54311,read 54308,read 484,read 54315,read
+Write in katakana: **pairotto** !;パイロット;54282,write 54311,write 54308,write 484,write 54315,write
+How do you pronounce オレンジ?;orenji;54294,read 54305,read 484,read 54318,read 54323,read
+Write in katakana: **orenji** !;オレンジ;54294,write 54305,write 484,write 54318,write 54323,write
+How do you pronounce リクエスト?;rikuesuto;54321,read 54308,read 54298,read 54297,read 54288,read
+Write in katakana: **rikuesuto** !;リクエスト;54321,write 54308,write 54298,write 54297,write 54288,write
+How do you pronounce イメージ?;ime-ji;488,read 54295,read 484,read 54315,read 54318,read
+Write in katakana: **ime-ji** !;イメージ;488,write 54295,write 484,write 54315,write 54318,write
+How do you pronounce ガソリン?;gasorin;54323,read 484,read 54307,read 54279,read 54321,read
+Write in katakana: **gasorin** !;ガソリン;54323,write 484,write 54307,write 54279,write 54321,write
+How do you pronounce ユーモア?;yu-moa;54313,read 488,read 54304,read 54278,read
+Write in katakana: **yu-moa** !;ユーモア;54313,write 488,write 54304,write 54278,write
+How do you pronounce マーケット?;ma-ketto;488,read 54308,read 54286,read 54290,read
+Write in katakana: **ma-ketto** !;マーケット;488,write 54308,write 54286,write 54290,write
+How do you pronounce エチケット?;echiketto;54290,read 54308,read 54317,read 54288,read
+Write in katakana: **echiketto** !;エチケット;54290,write 54308,write 54317,write 54288,write
+How do you pronounce せんぬき?;sen'nuki;54255,read 54277,read 54243,read 54270,read
+Write in hiragana:** sen'nuki** !;せんぬき;54255,write 54277,write 54243,write 54270,write
+How do you pronounce モダン?;modan;54313,read 484,read 54323,read 54280,read
+Write in katakana: **modan** !;モダン;54313,write 484,write 54323,write 54280,write
+How do you pronounce モデル?;moderu;54313,read 484,read 54291,read 54302,read
+Write in katakana: **moderu** !;モデル;54313,write 484,write 54291,write 54302,write
+How do you pronounce メニュー?;menyu-;54295,read 488,read 54320,read 486,read
+Write in katakana: **menyu-** !;メニュー;54295,write 488,write 54320,write 486,write
+How do you pronounce ナイロン?;nairon;54311,read 54323,read 54315,read 54283,read
+Write in katakana: **nairon** !;ナイロン;54311,write 54323,write 54315,write 54283,write
+How do you pronounce シャワー?;shawa-;486,read 488,read 54285,read 54318,read
+Write in katakana: **shawa-** !;シャワー;486,write 488,write 54285,write 54318,write
+How do you pronounce ラーメン?;ra-men;54295,read 488,read 54323,read 54284,read
+Write in katakana: **ra-men** !;ラーメン;54295,write 488,write 54323,write 54284,write
+How do you pronounce カラオケ?;karaoke;54290,read 54305,read 54279,read 54284,read
+Write in katakana: **karaoke** !;カラオケ;54290,write 54305,write 54279,write 54284,write
+How do you pronounce ピアノ?;piano;484,read 54319,read 54310,read 54278,read
+Write in katakana: **piano** !;ピアノ;484,write 54319,write 54310,write 54278,write
+How do you pronounce ネクタイ?;nekutai;54293,read 54297,read 54280,read 54315,read
+Write in katakana: **nekutai** !;ネクタイ;54293,write 54297,write 54280,write 54315,write
+How do you pronounce スモッグ?;sumoggu;54313,read 484,read 54297,read 54298,read
+Write in katakana: **sumoggu** !;スモッグ;54313,write 484,write 54297,write 54298,write
+How do you pronounce マスコミ?;masukomi;54306,read 54286,read 54322,read 54298,read
+Write in katakana: **masukomi** !;マスコミ;54306,write 54286,write 54322,write 54298,write
+How do you pronounce ピクニック?;pikunikku;484,read 54297,read 54319,read 54320,read
+Write in katakana: **pikunikku** !;ピクニック;484,write 54297,write 54319,write 54320,write
+How do you pronounce ニュース?;nyu-su;488,read 54298,read 54320,read 486,read
+Write in katakana: **nyu-su** !;ニュース;488,write 54298,write 54320,write 486,write
+How do you pronounce おいぬく?;oinuku;54255,read 54269,read 54259,read 54251,read
+Write in hiragana:** oinuku** !;おいぬく;54255,write 54269,write 54259,write 54251,write
+How do you pronounce マラソン?;marason;54307,read 54323,read 54286,read 54284,read
+Write in katakana: **marason** !;マラソン;54307,write 54323,write 54286,write 54284,write
+How do you pronounce ウナギ?;unagi;54283,read 484,read 54316,read 54296,read
+Write in katakana: **unagi** !;ウナギ;54283,write 484,write 54316,write 54296,write
+How do you pronounce もちぬし?;mochinushi;54271,read 54255,read 54272,read 54267,read
+Write in hiragana:** mochinushi** !;もちぬし;54271,write 54255,write 54272,write 54267,write
+How do you pronounce バケツ?;baketsu;54282,read 484,read 54299,read 54290,read
+Write in katakana: **baketsu** !;バケツ;54282,write 484,write 54299,write 54290,write
+How do you pronounce マイナス?;mainasu;54315,read 54286,read 54298,read 54283,read
+Write in katakana: **mainasu** !;マイナス;54315,write 54286,write 54298,write 54283,write
+How do you pronounce パンツ?;pantsu;54282,read 484,read 54299,read 54323,read
+Write in katakana: **pantsu** !;パンツ;54282,write 484,write 54299,write 54323,write
+How do you pronounce トンネル?;ton'neru;54293,read 54308,read 54323,read 54302,read
+Write in katakana: **ton'neru** !;トンネル;54293,write 54308,write 54323,write 54302,write
+How do you pronounce フルーツ?;furu-tsu;54299,read 54300,read 488,read 54302,read
+Write in katakana: **furu-tsu** !;フルーツ;54299,write 54300,write 488,write 54302,write
+How do you pronounce タイヤ?;taiya;54315,read 54280,read 54287,read
+Write in katakana: **taiya** !;タイヤ;54315,write 54280,write 54287,write
+How do you pronounce ぬける?;nukeru;54255,read 54244,read 54256,read
+Write in hiragana:** nukeru** !;ぬける;54255,write 54244,write 54256,write
+How do you pronounce メーター?;me-ta-;54295,read 488,read 54280,read
+Write in katakana: **me-ta-** !;メーター;54295,write 488,write 54280,write
+How do you pronounce モーター?;mo-ta-;54313,read 488,read 54280,read
+Write in katakana: **mo-ta-** !;モーター;54313,write 488,write 54280,write
+How do you pronounce ぬるい?;nurui;54255,read 54269,read 54256,read
+Write in hiragana:** nurui** !;ぬるい;54255,write 54269,write 54256,write
+How do you pronounce バツ?;batsu;54282,read 484,read 54299,read
+Write in katakana: **batsu** !;バツ;54282,write 484,write 54299,write
+How do you pronounce ソフト?;sofuto;54307,read 54308,read 54300,read
+Write in katakana: **sofuto** !;ソフト;54307,write 54308,write 54300,write
+How do you pronounce ノート?;no-to;488,read 54308,read 54310,read
+Write in katakana: **no-to** !;ノート;488,write 54308,write 54310,write
+How do you pronounce レモン?;remon;54313,read 54294,read 54323,read
+Write in katakana: **remon** !;レモン;54313,write 54294,write 54323,write
+How do you pronounce スーツ?;su-tsu;54299,read 488,read 54298,read
+Write in katakana: **su-tsu** !;スーツ;54299,write 488,write 54298,write
+How do you pronounce ソース?;so-su;54307,read 488,read 54298,read
+Write in katakana: **so-su** !;ソース;54307,write 488,write 54298,write
+How do you pronounce やぬし?;yanushi;54255,read 54272,read 54241,read
+Write in hiragana:** yanushi** !;やぬし;54255,write 54272,write 54241,write
+How do you pronounce ぬぐ?;nugu;54255,read 484,read 54251,read
+Write in hiragana:** nugu** !;ぬぐ;54255,write 484,write 54251,write
+How do you pronounce ソファー?;sofa-;54307,read 488,read 54300,read
+Write in katakana: **sofa-** !;ソファー;54307,write 488,write 54300,write
+How do you pronounce ぬすむ?;nusumu;54255,read 54252,read 54257,read
+Write in hiragana:** nusumu** !;ぬすむ;54255,write 54252,write 54257,write
+How do you pronounce ミルク?;miruku;54297,read 54322,read 54302,read
+Write in katakana: **miruku** !;ミルク;54297,write 54322,write 54302,write
+How do you pronounce ワイン?;wain;54285,read 54323,read 54315,read
+Write in katakana: **wain** !;ワイン;54285,write 54323,write 54315,write
+How do you pronounce ミス?;misu;54322,read 54298,read
+Write in katakana: **misu** !;ミス;54322,write 54298,write
+How do you pronounce ノック?;nokku;54297,read 54310,read
+Write in katakana: **nokku** !;ノック;54297,write 54310,write
+How do you pronounce ヨット?;yotto;54314,read 54308,read
+Write in katakana: **yotto** !;ヨット;54314,write 54308,write
